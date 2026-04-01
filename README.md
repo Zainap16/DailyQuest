@@ -34,8 +34,3 @@ Buttons like:
 🙂 Okay
 🔥 Focused
 Save daily mood
-
-
-Later:
-
-Have 
